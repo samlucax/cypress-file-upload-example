@@ -1,0 +1,16 @@
+{
+  "name": "cypress-upload-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "4.6.0",
+    "cypress-file-upload": "3.5.3"
+  }
+}
